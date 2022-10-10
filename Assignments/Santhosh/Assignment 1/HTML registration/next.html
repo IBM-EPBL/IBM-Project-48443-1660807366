@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+
+</body>
+<script>
+    //get data from get
+    let data = new URLSearchParams(window.location.search);
+    let username = data.get("username");
+    let email = data.get("email");
+    let phone = data.get("phone");
+    //create elements
+    let div = document.createElement("div");
+    let h1 = document.createElement("h1");
+    let p1 = document.createElement("p");
+    let p2 = document.createElement("p");
+    let p3 = document.createElement("p");
+    //add text to elements
+    h1.innerText = "Welcome " + username;
+    p1.innerText = "Your email is " + email;
+    p2.innerText = "Your phone number is " + phone;
+    p3.innerText = "Thank you for registering";
+    //append elements
+    div.appendChild(h1);
+    div.appendChild(p1);
+    div.appendChild(p2);
+    div.appendChild(p3);
+    document.body.appendChild(div);
+    
+
+
+</script>
+
+</html>
