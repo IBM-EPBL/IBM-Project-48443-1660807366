@@ -1,0 +1,17 @@
+{% extends 'layout.html' %}
+
+{% block body%}
+<style>
+    body {
+      background-image: url('https://media.istockphoto.com/id/1372696237/photo/a-boss-with-tablet-showing-to-warehouse-worker-with-box-where-to-put-it.jpg?b=1&s=170667a&w=0&k=20&c=u_M9_EAkiTcVitwDFcJi7SJNgRNDYVTSNM3c4ozxn5g=');
+    }
+    </style><br><br>
+<div class="jumbotron mt-4">
+    <h7 class="display-4">Inventory Management System for Retailers</h7><br><br>
+    {% if session.logged_in == NULL %}
+        <center><a href="/register" class="btn btn-primary btn-lg">Register</a>
+        <a href="/login" class="btn btn-success btn-lg">Login</a></center>
+    {% endif %}<br>
+    <center><h5>Created By:Naveenkumar M Santhosh M Nivendra K Milli Sadin</h5><center>
+</div>
+{% endblock %}
