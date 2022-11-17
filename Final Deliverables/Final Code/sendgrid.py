@@ -4,8 +4,8 @@ from email.mime.text import MIMEText
 from email.mime.base import MIMEBase
 
 def alert(main_msg):
-   mail_from = '19i361@psgtech.ac.in'
-   mail_to = '19i303@psgtech.ac.in'
+   mail_from = '1905097cse@cit.edu.in'
+   mail_to = '1905095cse@cit.edu.in'
    msg = MIMEMultipart()
    msg['From'] = mail_from
    msg['To'] = mail_to
