@@ -1,0 +1,12 @@
+{% extends 'layout.html' %}
+
+{% block body %}
+<h1 style="text-align: center;">Add Location</h1>
+{% from "includes/_formhelpers.html" import render_field %}
+<form action="" method="POST" style="max-width: 500px;margin:20px auto;">
+    <div class="form-group">
+        {{ render_field(form.location_id, class_="form-control") }}
+    </div>
+    <p style="text-align:center;margin-top: 40px;"><input type="submit" value="Add" class="btn btn-success"></p>
+</form>
+{% endblock %}
