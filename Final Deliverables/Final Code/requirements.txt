@@ -3,3 +3,4 @@ ibm_db
 sendgrid
 wtforms
 passlib
+gunicorn

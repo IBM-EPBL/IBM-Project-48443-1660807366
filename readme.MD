@@ -21,7 +21,7 @@
 
 # 🏮Check Out our Deployed Application🏮 
 
-🚀 🚀 ---> **For Educational Purpose only!**
+🚀 [https://192.187.80.80](https://inventorymanager.herokuapp.com/)🚀 --->
 
 
 🔺**IMPORTANT NOTE**🔺 - While registering using unique username and password. If IBM Cloud default security service identifies the username and passoword combo to be breachable then internal server error occurs!
