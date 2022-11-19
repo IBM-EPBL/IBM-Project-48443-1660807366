@@ -19,7 +19,7 @@
 4. Proposed System Data Flow Diagram
 5. Steps to run the Final Code
 
-# 🏮Check Out our Deployed Application🏮 
+# 🐘Check Out our Deployed Application🐘
 
 🚀 [https://192.187.80.80](https://inventorymanager.herokuapp.com/)🚀 --->
 
@@ -28,14 +28,14 @@
 
 ---------------------------------------------------------
 
-🔑You may use this Login credentials to login🔑,
+🔐You may use this Login credentials to login🔐,
 
 **Username** - naveenkumarmd
 
 **Password** - 12345678
 
 ---------------------------------------------------------
-# 🏮Demonstration Video Link🏮
+# 😶‍🌫️ Demonstration Video Link😶‍🌫️😶
 
 📽️ not_uploaded 📽️
 
@@ -76,15 +76,6 @@ Step 3: Download your own DigitalCertificate from IBM cloud DB and put in your P
 
 Hurrah🎉!! You are good to go! Launch the Application! And You will see the application running in your localhost!
 
-↘️**Steps to deploy the application online:**↙️
-
-Step 1: Create your own container registry and kubernetes cluster in IBM Cloud.
-
-Step 2: Setup Docker in your desktop.
-
-Step 3: Create docker image for your application and deploy it using IBM Container and Kubernetes Service.
-
-Our Application's Public URL : 
 
 
 
