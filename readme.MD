@@ -19,6 +19,7 @@
 4. Proposed System Data Flow Diagram
 5. Steps to run the Final Code
 
+
 # 🐘Check Out our Deployed Application🐘
 
 🚀 [https://192.187.80.80](https://inventorymanager.herokuapp.com/)🚀 --->
@@ -37,7 +38,7 @@
 ---------------------------------------------------------
 # 😶‍🌫️ Demonstration Video Link😶‍🌫️😶
 
-📽️ not_uploaded 📽️
+📽️ https://vimeo.com/772731500 📽️
 
 
 # About the project Topic
