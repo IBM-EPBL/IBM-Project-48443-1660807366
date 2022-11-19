@@ -1,6 +1,6 @@
 # IBM-Project-48443-1660807366
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://vimeo.com/772731500)
+[![Watch the video](https://raw.githubusercontent.com/IBM-EPBL/IBM-Project-48443-1660807366/master/Assignments/Santhosh/Assignment-3/11.jpeg)](https://vimeo.com/772731500)
 
 🏁Inventory Managment System for Retailers🏁
 
